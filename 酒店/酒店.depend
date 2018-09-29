@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1488551220 source:f:\æ∆µÍ\æ∆µÍ\øÿ÷∆Ã®.c
+	<stdio.h>
+	<windows.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1490163613 source:f:\æ∆µÍ\æ∆µÍ\console.c
+	<stdio.h>
+	<windows.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1490180132 source:f:\æ∆µÍ\æ∆µÍ\form.c
+	<stdio.h>
+	"console.h"
+	<time.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1490186877 f:\æ∆µÍ\æ∆µÍ\console.h
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+
+1490165493 source:f:\æ∆µÍ\æ∆µÍ\graph.c
+	<stdio.h>
+	"console.h"
+
+1489306199 source:f:\æ∆µÍ\æ∆µÍ\sentence.c
+	<stdio.h>
+
+1488622580 source:f:\æ∆µÍπ‹¿Ì\123.c
+	<stdbool.h>
+
+1488621669 source:f:\æ∆µÍ\æ∆µÍ\12.c
+	<stdio.h>
+	<stdlib.h>
+
+1488626364 source:f:\æ∆µÍ\æ∆µÍ\123.c
+	<stdbool.h>
+
+1490186976 source:f:\æ∆µÍ\æ∆µÍ\special.c
+	<stdio.h>
+	<stdbool.h>
+	"console.h"
+	<time.h>
+	<stdlib.h>
+
+1488695783 source:f:\æ∆µÍ\æ∆µÍ\safe.c
+	<stdio.h>
+	<stdbool.h>
+	"console.h"
+
+1490186941 source:f:\æ∆µÍ\æ∆µÍ\data.c
+	<stdio.h>
+	"console.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1490163614 source:f:\æ∆µÍ\console.c
+	<stdio.h>
+	<windows.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1490186942 source:f:\æ∆µÍ\data.c
+	<stdio.h>
+	"console.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+
+1490186878 f:\æ∆µÍ\console.h
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+
+1490180134 source:f:\æ∆µÍ\form.c
+	<stdio.h>
+	"console.h"
+	<time.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1490165494 source:f:\æ∆µÍ\graph.c
+	<stdio.h>
+	"console.h"
+
+1488695784 source:f:\æ∆µÍ\safe.c
+	<stdio.h>
+	<stdbool.h>
+	"console.h"
+
+1489306200 source:f:\æ∆µÍ\sentence.c
+	<stdio.h>
+
+1490187066 source:f:\æ∆µÍ\special.c
+	<stdio.h>
+	<stdbool.h>
+	"console.h"
+	<time.h>
+	<stdlib.h>
+
